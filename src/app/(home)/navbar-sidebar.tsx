@@ -34,7 +34,7 @@ export const NavbarSidebar = ({
         <SheetHeader className="p-4 border-b">
           <div className="flex items-center">
             <SheetTitle>
-                Meun
+                Menu
             </SheetTitle>
           </div>
         </SheetHeader>
